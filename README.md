@@ -16,8 +16,8 @@
 <p align="left">
 <a href="https://codepen.io/@11g1s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@11g1s" height="30" width="40" /></a>
 <a href="https://dev.to/radz22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="radz22" height="30" width="40" /></a>
-<a href="https://twitter.com/@11g1s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@11g1s" height="30" width="40" /></a>
-<a href="https://fb.com/radz santillan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="radz santillan" height="30" width="40" /></a>
+<a href="https://twitter.com/11g1S" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@11g1s" height="30" width="40" /></a>
+<a href="https://www.facebook.com/radzsantillann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="radz santillan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
